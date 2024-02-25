@@ -16,8 +16,7 @@ MIT license
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/camparchimedes/databank/blob/main/LICENSE)
 
 
-
-![](https://github.com/camparchimedes/databank/cool.jpg)
+![alt text](https://github.com/camparchimedes/databank/blob/main/cool.jpg?raw=true)
 
 Open Source
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://opensource.com/resources/what-open-source)
