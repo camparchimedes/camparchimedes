@@ -2,10 +2,12 @@
 
 ❚█═══════ Hi 👋 ══════█❚ 
 An aspiring deep learning engineer who dreams of an AI system that safeguards man from the whims of his own folly.
+
 📖 Current focus:the Deep Learning Specialization (Coursera) by Andrew Ng
+
 🔬 Collecting portfolio projects at https://github.com/camparchimedes/doctrina-ad-codicem/tree/main
-🎲 Interested in Ai weirdness, systems understanding, Linux/open source, foundational principles, emergent properties, outside-of-the-box thinking,  
-🎨 CG artist since 2005 and since 2023:🛸 generative code artist, 🔮 Digital art gallery available at https://www.deviantart.com/johnnyvirtual
+
+
 
 
 
