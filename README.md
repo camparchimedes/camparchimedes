@@ -1,4 +1,4 @@
-![alt text]([https://github.com/camparchimedes/databank/blob/main/DL_research.jpg?](https://github.com/camparchimedes/databank/blob/main/studio2222.jpg)raw=true)
+![alt text]([https://github.com/camparchimedes/databank/blob/main/DL_research.jpg?](https://github.com/camparchimedes/databank/blob/main/studio2222.jpg)
 
 
 
