@@ -1,5 +1,5 @@
-![alt text]([https://github.com/camparchimedes/databank/blob/main/DL_research.jpg?](https://github.com/camparchimedes/databank/blob/main/studio2222.jpg)
 
+[![Studio]((https://github.com/camparchimedes/databank/blob/main/studio2222.jpg))]
 
 
 
